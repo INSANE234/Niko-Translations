@@ -1,0 +1,18 @@
+{
+    "restartable": "rs",
+    "ignore": [
+      ".git",
+      "node_modules/**/node_modules",
+      "Data/**",
+      "API/Data/**"
+    ],
+    "verbose": true,
+    "execMap": {
+      "js": "node"
+    },
+    "watch": [
+      "."
+    ],
+    "ext": "js json",
+    "delay": "900000"
+  }

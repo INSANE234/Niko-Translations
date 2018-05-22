@@ -1,0 +1,24 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Dependency things
+node_modules/
+package-lock.json
+
+# dotenv environment variables file
+.env
+/.vscode
+.eslintrc.json
+Data/
+API/
+Extensions/
+Classes/
+Todo.md
+w*.json
+Events/
+README[0-9].md
+shard*
+bot.js
+package*
